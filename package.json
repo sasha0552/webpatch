@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "build": "rollup --config"
+  },
+  "devDependencies": {
+    "@rollup/plugin-alias": "^5.0.1",
+    "@rollup/plugin-json": "^6.0.1",
+    "@rollup/plugin-replace": "^5.0.4",
+    "@rollup/plugin-terser": "^0.4.4",
+    "acorn": "^8.10.0",
+    "acorn-walk": "^8.2.0",
+    "commander": "^11.1.0",
+    "rollup": "^4.1.4",
+    "terser": "^5.22.0"
+  }
+}
